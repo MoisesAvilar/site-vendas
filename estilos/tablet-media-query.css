@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+    div {
+        display: inline-block;
+        width: 30vw;
+    }
+
+    .imgs {
+        width: 200px;
+    }
+
+}
